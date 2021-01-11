@@ -1,0 +1,6 @@
+accession_id,gpls,suppfile,ftplink
+GSE59847,571,CEL,ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE59nnn/GSE59847/
+GPL571,571,,ftp://ftp.ncbi.nlm.nih.gov/geo/platforms/GPLnnn/GPL571/
+GSM1447409,571,CEL,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1447nnn/GSM1447409/
+GSM1447408,571,CEL,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1447nnn/GSM1447408/
+GSM1447407,571,CEL,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1447nnn/GSM1447407/
